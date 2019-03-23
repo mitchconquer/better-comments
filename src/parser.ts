@@ -256,6 +256,7 @@ export class Parser {
 				break;
 
 			case "al":
+			case "apex":
 			case "c":
 			case "cpp":
 			case "csharp":
